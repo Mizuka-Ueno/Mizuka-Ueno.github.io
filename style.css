@@ -1,27 +1,98 @@
-h1 {
+.top {
+    background-color: #F3D3B8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.group {
+    float:left;
+}
+h4 {
+    font-size: 25px;
+    padding-right: 500px;
+    padding-left: 30px;
+}
+.contents {
+    float:right;
+    padding: 25px 20px
+}
+
+
+.header {
     background-color: #7CAA2D;
+    padding-top:30px;
+    padding-bottom:30px;
+    text-align: center;
+}
+.title {
     color:white;
-    padding-top:20px;
-    padding-bottom:20px;
+    font-size:80px
 }
 
-body {
-    background-color: #EBDCB2;
+
+.body {
+    background-color: #F3D3B8;
+    text-align: center;
 }
 
-.anata {
-    color:white;
-    background-color: #7CAA2D;
-    padding:20px;
+.about-us {
+    padding-top: 70px;
+    margin-top: 0px;
 }
-
 .nenkan {
     color:red;
 }
+.npo {
+    padding-bottom: 30px;
+}
+.picture3 {
+    padding-bottom: 200px;
+}
 
+.kaisai {
+    background-color: #A5C3CF;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.about {
+    padding-bottom: 30px;
+}
+
+.save {
+    color:white;
+    background-color: #7CAA2D;
+    padding:20px;
+    font-size:40px;
+    margin-top: 200px;
+}
+
+.please {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.example {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
 .money {
     background-color:#A5C3CF;
     font-family: cursive;
     font-size:20px;
     padding-right: 10px;
+}
+.koneko {
+    padding-bottom: 30px;
+}
+
+.wait {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #A5C3CF;
+    color:white;
+    font-size:30px;
 }
