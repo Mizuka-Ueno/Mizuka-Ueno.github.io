@@ -17,7 +17,6 @@ h4 {
     padding: 25px 20px
 }
 
-
 .header {
     background-color: #7CAA2D;
     padding-top:30px;
@@ -91,6 +90,7 @@ h4 {
 .wait {
     padding-top: 60px;
     padding-bottom: 60px;
+    color:black;
     background-color: #A5C3CF;
     font-size:30px;
 }
