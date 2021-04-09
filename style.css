@@ -1,4 +1,8 @@
-.top {
+body {
+    margin: 0;
+    padding: 0;
+ }
+ .top {
     background-color: #F3D3B8;
     padding-top: 10px;
     padding-bottom: 10px;
